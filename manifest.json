@@ -1,0 +1,17 @@
+{
+    "name": "Strona o Paintballu",
+    "short_name": "Paintball",
+    "theme_color": "#bbbbb",
+    "background_color": "#737272",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "icons" : [
+        {
+            "src" : "./logo.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
